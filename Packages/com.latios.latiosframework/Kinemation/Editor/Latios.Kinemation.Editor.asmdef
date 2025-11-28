@@ -1,0 +1,28 @@
+{
+    "name": "Latios.Kinemation.Editor",
+    "rootNamespace": "Latios.Kinemation.Editor",
+    "references": [
+        "Unity.Entities",
+        "Latios.Kinemation",
+        "Latios.Core.Editor",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Entities.UI.Editor",
+        "Unity.Mathematics.Extensions",
+        "Unity.Entities.Graphics",
+        "Latios.Transforms",
+        "Unity.Entities.Editor",
+        "Latios.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

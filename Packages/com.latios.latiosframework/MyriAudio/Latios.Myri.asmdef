@@ -1,0 +1,31 @@
+{
+    "name": "Latios.Myri",
+    "rootNamespace": "Latios.Myri",
+    "references": [
+        "Latios.Core",
+        "Latios.Transforms",
+        "Latios.Calci",
+        "Unity.Audio.DSPGraph",
+        "Unity.Burst",
+        "Unity.Collections",
+        "Unity.Entities",
+        "Unity.Mathematics",
+        "Unity.Media.Utilities",
+        "Unity.Entities.Hybrid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+		{
+            "name": "com.unity.entities",
+            "expression": "1.4.0",
+            "define": "ENTITIES_1_4"
+        }
+	],
+    "noEngineReferences": false
+}
